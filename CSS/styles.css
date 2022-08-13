@@ -1,0 +1,145 @@
+body{
+  background: url("C:/Users/no name/Desktop/Practice Websites/Tribute page/images/background.png") ;
+  background-size: cover;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+  margin: 0;
+}
+h1{
+  font-family: 'Cinzel', serif;
+  font-size: 50px;
+  color: #2C3333;
+  margin:100px 0 100px 0;
+}
+.q1{
+  font-family: 'Cinzel', serif;
+  font-size: 15px;
+  width: 50%;
+  position: relative;
+  bottom: 200px;
+  right: 12%;
+}
+
+.q2{
+  font-family: 'Cinzel', serif;
+  font-size: 15px;
+  width: 30%;
+  position: relative;
+  bottom: 150px;
+  left: 70%;
+
+}
+.q3{
+  font-family: 'Cinzel', serif;
+  font-size: 15px;
+  width: 50%;
+  position: relative;
+  bottom: 120px;
+  left: 25%
+}
+
+
+.ali-image1{
+  width: 30%;
+  border-radius: 8px;
+  float: left;
+  margin-left: 20%;
+
+
+}
+.ali-image2{
+  width: 30%;
+  border-radius: 8px;
+  float: right;
+  margin-right: 20%;
+
+
+}
+.sub-head1{
+  font-family: 'Cinzel', serif;
+  position: absolute;
+  left: 58%;
+  top: 485px;
+
+}
+.sub-head2{
+  font-family: 'Cinzel', serif;
+  position:absolute;
+  right: 58%;
+  top: 840px;
+}
+.middle{
+  width: 50%;
+  padding-left: 25%;
+}
+.hr-1{
+  margin-top:  300px;
+  margin-bottom: 100px;
+  width: 0;
+}
+.hr-subhead{
+  margin-top: 350px;
+width: 0;
+}
+.ali-image3{
+  width: 30%;
+  float: right;
+  margin: 20px;
+}
+.hr-2{
+  margin: 50px;
+  width: 0;
+}
+.ali-image4{
+  width: 50%;
+  border-radius: 8px;
+  float: left;
+  margin:20px;
+}
+.hr-3{
+margin: 50px 0 50px 0;
+width: 0;
+
+}
+.ali-image5{
+  width: 70%;
+  border-radius: 8px;
+  float: right;
+  margin:20px;
+  margin-bottom: 30px;
+}
+ .ali-image6{
+   width: 70%;
+   border-radius: 8px;
+   margin:20px;
+   float: left;
+
+ }
+ .ali-image7{
+   width: 70%;
+   border-radius: 8px;
+   margin:20px;
+   float: left
+ }
+ .ali-image8{
+   width: 70%;
+   border-radius: 8px;
+   margin:20px;
+ }
+.bottom{
+  background-color:#2C3333;
+  height: 160px;
+  width: 100%;
+color: #CFD2CF;
+
+
+}
+.footer-link1{
+  color: #CFD2CF;
+  display: block;
+
+}
+.footer-link2{
+  color: #CFD2CF;
+}
